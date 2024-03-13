@@ -1,0 +1,1190 @@
+[
+    {
+      "ID": "ABICASE",
+      "Name": "Abicase",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ANITA_ARTIFACT",
+      "Name": "Anita's Artifact",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ANITA_RING",
+      "Name": "Anita's Ring",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "ANITA_ARTIFACT"
+      ]
+    },
+    {
+      "ID": "ANITA_TALISMAN",
+      "Name": "Anita's Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "ANITA_RING",
+        "ANITA_ARTIFACT"
+      ]
+    },
+    {
+      "ID": "ARTIFACT_POTION_AFFINITY",
+      "Name": "Potion Affinity Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ATMOSPHERIC_FILTER",
+      "Name": "Atmospheric Filter",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "BAIT_RING",
+      "Name": "Bait Ring",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "SPIKED_ATROCITY"
+      ]
+    },
+    {
+      "ID": "BAT_ARTIFACT",
+      "Name": "Bat Artifact",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "BAT_RING",
+      "Name": "Bat Ring",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "BAT_ARTIFACT"
+      ]
+    },
+    {
+      "ID": "BAT_TALISMAN",
+      "Name": "Bat Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "BAT_ARTIFACT",
+        "BAT_RING"
+      ]
+    },
+    {
+      "ID": "BINGO_ARTIFACT",
+      "Name": "Bingo Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "BINGO_RELIC"
+      ]
+    },
+    {
+      "ID": "BINGO_RELIC",
+      "Name": "Bingo Relic",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "BINGO_RING",
+      "Name": "Bingo Ring",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "BINGO_RELIC",
+        "BINGO_ARTIFACT"
+      ]
+    },
+    {
+      "ID": "BINGO_TALISMAN",
+      "Name": "Bingo Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        "BINGO_RELIC",
+        "BINGO_ARTIFACT",
+        "BINGO_RING"
+      ]
+    },
+    {
+      "ID": "BITS_TALISMAN",
+      "Name": "Bits Talisman",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "BLAZE_TALISMAN",
+      "Name": "Blaze Talisman",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "BLOOD_GOD_CREST",
+      "Name": "Blood God Crest",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "BOOK_OF_PROGRESSION",
+      "Name": "Book of Progression",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "CANDY_ARTIFACT",
+      "Name": "Candy Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "CANDY_RELIC"
+      ]
+    },
+    {
+      "ID": "CANDY_RELIC",
+      "Name": "Candy Relic",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "CANDY_RING",
+      "Name": "Candy Ring",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "CANDY_RELIC",
+        "CANDY_ARTIFACT"
+      ]
+    },
+    {
+      "ID": "CANDY_TALISMAN",
+      "Name": "Candy Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "CANDY_RELIC",
+        "CANDY_ARTIFACT",
+        "CANDY_RING"
+      ]
+    },
+    {
+      "ID": "CAT_TALISMAN",
+      "Name": "Cat Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": false,
+      "Upgrades": [
+        "CHEETAH_TALISMAN",
+        "LYNX_TALISMAN"
+      ]
+    },
+    {
+      "ID": "CHEETAH_TALISMAN",
+      "Name": "Cheetah Talisman",
+      "Upgradable": false,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "COIN_TALISMAN",
+      "Name": "Talisman of Coins",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "CROOKED_ARTIFACT",
+      "Name": "Crooked Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "CROPIE_TALISMAN",
+      "Name": "Cropie Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "DANTE_RING",
+      "Name": "Dante Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "DANTE_TALISMAN",
+      "Name": "Dante Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "DAY_CRYSTAL",
+      "Name": "Day Crystal",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "DEVOUR_RING",
+      "Name": "Devour Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "DULL_SHARK_TOOTH_NECKLACE",
+      "Name": "Dull Shark Tooth Necklace",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "EMERALD_RING",
+      "Name": "Emerald Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ENDER_ARTIFACT",
+      "Name": "Ender Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ENDER_RELIC",
+      "Name": "Ender Relic",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ETERNAL_HOOF",
+      "Name": "Eternal Hoof",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "EXPERIENCE_ARTIFACT",
+      "Name": "Experience Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FARMER_ORB",
+      "Name": "Farmer Orb",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FARMING_TALISMAN",
+      "Name": "Farming Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FEATHER_ARTIFACT",
+      "Name": "Feather Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FEATHER_RING",
+      "Name": "Feather Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FEATHER_TALISMAN",
+      "Name": "Feather Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FERMENTO_ARTIFACT",
+      "Name": "Fermento Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FIRE_TALISMAN",
+      "Name": "Fire Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FISH_AFFINITY_TALISMAN",
+      "Name": "Fish Affinity Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "FROZEN_CHICKEN",
+      "Name": "Frozen Chicken",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "GRAVITY_TALISMAN",
+      "Name": "Gravity Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "HANDY_BLOOD_CHALICE",
+      "Name": "Handy Blood Chalice",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "HASTE_RING",
+      "Name": "Haste Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "HEALING_RING",
+      "Name": "Healing Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "HEALING_TALISMAN",
+      "Name": "Healing Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "HONED_SHARK_TOOTH_NECKLACE",
+      "Name": "Honed Shark Tooth Necklace",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "HUNTER_RING",
+      "Name": "Hunter Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "HUNTER_TALISMAN",
+      "Name": "Hunter Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "INTIMIDATION_ARTIFACT",
+      "Name": "Intimidation Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "INTIMIDATION_RELIC",
+      "Name": "Intimidation Relic",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "INTIMIDATION_RING",
+      "Name": "Intimidation Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "INTIMIDATION_TALISMAN",
+      "Name": "Intimidation Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "JACOBUS_REGISTER",
+      "Name": "Jacobus Register",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "JERRY_TALISMAN_BLUE",
+      "Name": "Blue Jerry Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "JERRY_TALISMAN_GOLDEN",
+      "Name": "Golden Jerry Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "JERRY_TALISMAN_GREEN",
+      "Name": "Green Jerry Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "JERRY_TALISMAN_PURPLE",
+      "Name": "Purple Jerry Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "LAVA_TALISMAN",
+      "Name": "Lava Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "LUCKY_HOOF",
+      "Name": "Lucky Hoof",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "LYNX_TALISMAN",
+      "Name": "Lynx Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "MAGNETIC_TALISMAN",
+      "Name": "Magnetic Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "MELODY_HAIR",
+      "Name": "Melody's Hair",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "MINERAL_TALISMAN",
+      "Name": "Mineral Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "NETHERRACK_LOOKING_SUNSHADE",
+      "Name": "Netherrack-Looking Sunshade",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "NEW_YEAR_CAKE_BAG",
+      "Name": "New Year Cake Bag",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "NIGHT_CRYSTAL",
+      "Name": "Night Crystal",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "NIGHT_VISION_CHARM",
+      "Name": "Night Vision Charm",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ODGERS_BRONZE_TOOTH",
+      "Name": "Odger's Bronze Tooth",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ODGERS_DIAMOND_TOOTH",
+      "Name": "Odger's Diamond Tooth",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ODGERS_GOLD_TOOTH",
+      "Name": "Odger's Gold Tooth",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ODGERS_SILVER_TOOTH",
+      "Name": "Odger's Silver Tooth",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PARTY_HAT_CRAB_ANIMATED",
+      "Name": "Crab Hat of Celebration - 2022 Edition",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PARTY_HAT_SLOTH",
+      "Name": "Sloth Hat of Celebration",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_4000",
+      "Name": "Personal Compactor 4000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_5000",
+      "Name": "Personal Compactor 5000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_6000",
+      "Name": "Personal Compactor 6000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_7000",
+      "Name": "Personal Compactor 7000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_DELETOR_4000",
+      "Name": "Personal Deletor 4000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_DELETOR_5000",
+      "Name": "Personal Deletor 5000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_DELETOR_6000",
+      "Name": "Personal Deletor 6000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PERSONAL_DELETOR_7000",
+      "Name": "Personal Deletor 7000",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PESTHUNTER_ARTIFACT",
+      "Name": "Pesthunter Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PESTHUNTER_BADGE",
+      "Name": "Pesthunter Badge",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PESTHUNTER_RING",
+      "Name": "Pesthunter Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PIGGY_BANK",
+      "Name": "Piggy Bank",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PIGS_FOOT",
+      "Name": "Pig's Foot",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "POCKET_ESPRESSO_MACHINE",
+      "Name": "Pocket Espresso Machine",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "POTATO_TALISMAN",
+      "Name": "Potato Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "POTION_AFFINITY_TALISMAN",
+      "Name": "Potion Affinity Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "PULSE_RING",
+      "Name": "Pulse Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+      "Name": "Raggedy Shark Tooth Necklace",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+      "Name": "Razor-sharp Shark Tooth Necklace",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "REAPER_ORB",
+      "Name": "Reaper Orb",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "RED_CLAW_ARTIFACT",
+      "Name": "Red Claw Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "RED_CLAW_RING",
+      "Name": "Red Claw Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "RED_CLAW_TALISMAN",
+      "Name": "Red Claw Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "RING_POTION_AFFINITY",
+      "Name": "Potion Affinity Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SCAVENGER_TALISMAN",
+      "Name": "Scavenger Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SEA_CREATURE_ARTIFACT",
+      "Name": "Sea Creature Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SEA_CREATURE_RING",
+      "Name": "Sea Creature Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SEA_CREATURE_TALISMAN",
+      "Name": "Sea Creature Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SHARP_SHARK_TOOTH_NECKLACE",
+      "Name": "Sharp Shark Tooth Necklace",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SKELETON_TALISMAN",
+      "Name": "Skeleton Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SOULFLOW_BATTERY",
+      "Name": "Soulflow Battery",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SOULFLOW_PILE",
+      "Name": "Soulflow Pile",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SOULFLOW_SUPERCELL",
+      "Name": "Soulflow Supercell",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SPEED_ARTIFACT",
+      "Name": "Speed Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SPEED_RING",
+      "Name": "Speed Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SPEED_TALISMAN",
+      "Name": "Speed Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SPIDER_ARTIFACT",
+      "Name": "Spider Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SPIDER_RING",
+      "Name": "Spider Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SPIDER_TALISMAN",
+      "Name": "Spider Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SPIKED_ATROCITY",
+      "Name": "Spiked Atrocity",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SQUASH_RING",
+      "Name": "Squash Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "SURVIVOR_CUBE",
+      "Name": "Survivor Cube",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "TARANTULA_TALISMAN",
+      "Name": "Tarantula Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "TREASURE_ARTIFACT",
+      "Name": "Treasure Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "VACCINE_TALISMAN",
+      "Name": "Vaccine Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "WOLF_PAW",
+      "Name": "Wolf Paw",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "WOLF_RING",
+      "Name": "Wolf Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "WOLF_TALISMAN",
+      "Name": "Wolf Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "WOOD_TALISMAN",
+      "Name": "Wood Affinity Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ZOMBIE_ARTIFACT",
+      "Name": "Zombie Artifact",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ZOMBIE_RING",
+      "Name": "Zombie Ring",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    },
+    {
+      "ID": "ZOMBIE_TALISMAN",
+      "Name": "Zombie Talisman",
+      "Upgradable": true,
+      "FinalUpgrade": true,
+      "Upgrades": [
+        
+      ]
+    }
+  ]

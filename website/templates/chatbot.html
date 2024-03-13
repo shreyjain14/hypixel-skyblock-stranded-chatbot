@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block title %}
+  Home
+{% endblock %}
+{% block content %}
+
+    <main class="mt-3">
+
+        <div class="container">
+
+            <div id="scroller">
+
+                <template id="chat_template">
+                    <div class="row" id="quest">
+                    </div>
+
+                    <div class="row" id="answer">
+                    </div>
+
+                    <br>
+                </template>
+
+            </div>
+
+            <div class="row">
+                <div class="col">
+
+                    <input id="question" style="width:80%;" placeholder="Enter Question" required>
+                    <br>
+                    <button type="submit" class="number-input" onclick="ask_ai()">Submit</button>
+
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <script>
+
+        var scroller = document.querySelector("#scroller");
+        var template = document.querySelector("#chat_template");
+
+        var loaded = 0;
+
+        function ask_ai() {
+            var question = document.querySelector("#question").value;
+            const template_clone2 = template.content.cloneNode(true);
+
+            template_clone2.querySelector("#quest").innerHTML = '<b>YOU:</b>';
+            template_clone2.querySelector("#answer").innerHTML = question;
+
+            scroller.appendChild(template_clone2);
+
+            document.querySelector("#question").value = ''
+
+            fetch(`/load?q=${question}&l=${loaded}`).then((response) => {
+
+                response.json().then((data) => {
+
+                    const template_clone = template.content.cloneNode(true);
+
+                    template_clone.querySelector("#quest").innerHTML = '<b>AI:</b>';
+                    template_clone.querySelector("#answer").innerHTML = data['ans'];
+
+                    scroller.appendChild(template_clone);
+
+                    loaded = 1;
+
+
+                })
+
+            })
+        }
+
+    </script>
+
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}
+{{username}}
+{% endblock %}
+{% block content %}
+
+    <main class="mt-3">
+
+        <div class="container">
+
+                {% for accessory in bag %}
+
+                    <div class="row">
+                        <h4>{{accessory}}</h4>
+                    </div>
+
+                {% endfor %}
+
+
+        </div>
+
+    </main>
+
+{% endblock %}

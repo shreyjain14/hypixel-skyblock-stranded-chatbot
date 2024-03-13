@@ -1,0 +1,1152 @@
+{
+  "accessories": [
+    {
+      "ID": "ARCHAEOLOGIST_COMPASS",
+      "name": "Archaeologist's Compass"
+    },
+    {
+      "ID": "ANITA_TALISMAN",
+      "name": "Anita's Talisman"
+    },
+    {
+      "ID": "PESTHUNTER_RING",
+      "name": "Pesthunter Ring"
+    },
+    {
+      "ID": "ANITA_ARTIFACT",
+      "name": "Anita's Artifact"
+    },
+    {
+      "ID": "ANITA_RING",
+      "name": "Anita's Ring"
+    },
+    {
+      "ID": "PESTHUNTER_BADGE",
+      "name": "Pesthunter Badge"
+    },
+    {
+      "ID": "PESTHUNTER_ARTIFACT",
+      "name": "Pesthunter Artifact"
+    },
+    {
+      "ID": "PARTY_HAT_SLOTH",
+      "name": "Sloth Hat of Celebration"
+    },
+    {
+      "ID": "PARTY_HAT_CRAB_ANIMATED",
+      "name": "Crab Hat of Celebration - 2022 Edition"
+    },
+    {
+      "ID": "PARTY_HAT_CRAB",
+      "name": "Crab Hat of Celebration"
+    },
+    {
+      "ID": "CENTURY_TALISMAN",
+      "name": "Talisman of the Century"
+    },
+    {
+      "ID": "GREAT_SPOOK_TALISMAN",
+      "name": "Great Spook Talisman"
+    },
+    {
+      "ID": "GREAT_SPOOK_ARTIFACT",
+      "name": "Great Spook Artifact"
+    },
+    {
+      "ID": "GREAT_SPOOK_RING",
+      "name": "Great Spook Ring"
+    },
+    {
+      "ID": "BITS_TALISMAN",
+      "name": "Bits Talisman"
+    },
+    {
+      "ID": "ABICASE",
+      "name": "Abicase"
+    },
+    {
+      "ID": "MINERAL_TALISMAN",
+      "name": "Mineral Talisman"
+    },
+    {
+      "ID": "BEASTMASTER_CREST_COMMON",
+      "name": "Beastmaster Crest"
+    },
+    {
+      "ID": "BEASTMASTER_CREST_LEGENDARY",
+      "name": "Beastmaster Crest"
+    },
+    {
+      "ID": "BEASTMASTER_CREST_EPIC",
+      "name": "Beastmaster Crest"
+    },
+    {
+      "ID": "BEASTMASTER_CREST_UNCOMMON",
+      "name": "Beastmaster Crest"
+    },
+    {
+      "ID": "BEASTMASTER_CREST_RARE",
+      "name": "Beastmaster Crest"
+    },
+    {
+      "ID": "JERRY_TALISMAN_BLUE",
+      "name": "Blue Jerry Talisman"
+    },
+    {
+      "ID": "JERRY_TALISMAN_GREEN",
+      "name": "Green Jerry Talisman"
+    },
+    {
+      "ID": "JERRY_TALISMAN_GOLDEN",
+      "name": "Golden Jerry Artifact"
+    },
+    {
+      "ID": "JERRY_TALISMAN_PURPLE",
+      "name": "Purple Jerry Talisman"
+    },
+    {
+      "ID": "HEGEMONY_ARTIFACT",
+      "name": "Hegemony Artifact"
+    },
+    {
+      "ID": "DULL_SHARK_TOOTH_NECKLACE",
+      "name": "Dull Shark Tooth Necklace"
+    },
+    {
+      "ID": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+      "name": "Raggedy Shark Tooth Necklace"
+    },
+    {
+      "ID": "HONED_SHARK_TOOTH_NECKLACE",
+      "name": "Honed Shark Tooth Necklace"
+    },
+    {
+      "ID": "SHARP_SHARK_TOOTH_NECKLACE",
+      "name": "Sharp Shark Tooth Necklace"
+    },
+    {
+      "ID": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+      "name": "Razor-sharp Shark Tooth Necklace"
+    },
+    {
+      "ID": "BINGO_RELIC",
+      "name": "Bingo Relic"
+    },
+    {
+      "ID": "BINGO_HEIRLOOM",
+      "name": "Bingo Heirloom"
+    },
+    {
+      "ID": "BINGO_TALISMAN",
+      "name": "Bingo Talisman"
+    },
+    {
+      "ID": "BINGO_RING",
+      "name": "Bingo Ring"
+    },
+    {
+      "ID": "BINGO_ARTIFACT",
+      "name": "Bingo Artifact"
+    },
+    {
+      "ID": "SEA_CREATURE_TALISMAN",
+      "name": "Sea Creature Talisman"
+    },
+    {
+      "ID": "INTIMIDATION_ARTIFACT",
+      "name": "Intimidation Artifact"
+    },
+    {
+      "ID": "ODGERS_BRONZE_TOOTH",
+      "name": "Odger's Bronze Tooth"
+    },
+    {
+      "ID": "LUCK_TALISMAN",
+      "name": "Luck Talisman"
+    },
+    {
+      "ID": "SCARF_THESIS",
+      "name": "Scarf's Thesis"
+    },
+    {
+      "ID": "FISH_AFFINITY_TALISMAN",
+      "name": "Fish Affinity Talisman"
+    },
+    {
+      "ID": "POWER_ARTIFACT",
+      "name": "Artifact of Power"
+    },
+    {
+      "ID": "BAT_PERSON_ARTIFACT",
+      "name": "Bat Person Artifact"
+    },
+    {
+      "ID": "WOLF_PAW",
+      "name": "Wolf Paw"
+    },
+    {
+      "ID": "FEATHER_ARTIFACT",
+      "name": "Feather Artifact"
+    },
+    {
+      "ID": "NIGHT_VISION_CHARM",
+      "name": "Night Vision Charm"
+    },
+    {
+      "ID": "PERSONAL_DELETOR_4000",
+      "name": "Personal Deletor 4000"
+    },
+    {
+      "ID": "TALISMAN_OF_SPACE",
+      "name": "Talisman of Space"
+    },
+    {
+      "ID": "LAVA_TALISMAN",
+      "name": "Lava Talisman"
+    },
+    {
+      "ID": "COIN_TALISMAN",
+      "name": "Talisman of Coins"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_4",
+      "name": "Master Skull - Tier 4"
+    },
+    {
+      "ID": "INTIMIDATION_RING",
+      "name": "Intimidation Ring"
+    },
+    {
+      "ID": "HEALING_RING",
+      "name": "Healing Ring"
+    },
+    {
+      "ID": "BAT_ARTIFACT",
+      "name": "Bat Artifact"
+    },
+    {
+      "ID": "NEW_YEAR_CAKE_BAG",
+      "name": "New Year Cake Bag"
+    },
+    {
+      "ID": "FIRE_TALISMAN",
+      "name": "Fire Talisman"
+    },
+    {
+      "ID": "ODGERS_GOLD_TOOTH",
+      "name": "Odger's Gold Tooth"
+    },
+    {
+      "ID": "TITANIUM_RELIC",
+      "name": "Titanium Relic"
+    },
+    {
+      "ID": "TITANIUM_ARTIFACT",
+      "name": "Titanium Artifact"
+    },
+    {
+      "ID": "WOOD_TALISMAN",
+      "name": "Wood Affinity Talisman"
+    },
+    {
+      "ID": "FROZEN_CHICKEN",
+      "name": "Frozen Chicken"
+    },
+    {
+      "ID": "CRACKED_PIGGY_BANK",
+      "name": "Cracked Piggy Bank"
+    },
+    {
+      "ID": "TITANIUM_RING",
+      "name": "Titanium Ring"
+    },
+    {
+      "ID": "VACCINE_RING",
+      "name": "Vaccine Ring"
+    },
+    {
+      "ID": "SEA_CREATURE_RING",
+      "name": "Sea Creature Ring"
+    },
+    {
+      "ID": "SHADY_RING",
+      "name": "Shady Ring"
+    },
+    {
+      "ID": "FEATHER_TALISMAN",
+      "name": "Feather Talisman"
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_6000",
+      "name": "Personal Compactor 6000"
+    },
+    {
+      "ID": "TITANIUM_TALISMAN",
+      "name": "Titanium Talisman"
+    },
+    {
+      "ID": "HASTE_RING",
+      "name": "Haste Ring"
+    },
+    {
+      "ID": "CHEETAH_TALISMAN",
+      "name": "Cheetah Talisman"
+    },
+    {
+      "ID": "FARMER_ORB",
+      "name": "Farmer Orb"
+    },
+    {
+      "ID": "RING_OF_SPACE",
+      "name": "Ring of Space"
+    },
+    {
+      "ID": "ODGERS_DIAMOND_TOOTH",
+      "name": "Odger's Diamond Tooth"
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_4000",
+      "name": "Personal Compactor 4000"
+    },
+    {
+      "ID": "CANDY_RELIC",
+      "name": "Candy Relic"
+    },
+    {
+      "ID": "LUCKY_HOOF",
+      "name": "Lucky Hoof"
+    },
+    {
+      "ID": "GRAVITY_TALISMAN",
+      "name": "Gravity Talisman"
+    },
+    {
+      "ID": "BAIT_RING",
+      "name": "Bait Ring"
+    },
+    {
+      "ID": "JACOBUS_REGISTER",
+      "name": "Jacobus Register"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_1",
+      "name": "Master Skull - Tier 1"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_5",
+      "name": "Master Skull - Tier 5"
+    },
+    {
+      "ID": "PERSONAL_DELETOR_7000",
+      "name": "Personal Deletor 7000"
+    },
+    {
+      "ID": "CATACOMBS_EXPERT_RING",
+      "name": "Catacombs Expert Ring"
+    },
+    {
+      "ID": "SCARF_STUDIES",
+      "name": "Scarf's Studies"
+    },
+    {
+      "ID": "BAT_PERSON_RING",
+      "name": "Bat Person Ring"
+    },
+    {
+      "ID": "SPIKED_ATROCITY",
+      "name": "Spiked Atrocity"
+    },
+    {
+      "ID": "PIGS_FOOT",
+      "name": "Pig's Foot"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_10",
+      "name": "Master Skull - Tier 10"
+    },
+    {
+      "ID": "SPEED_RING",
+      "name": "Speed Ring"
+    },
+    {
+      "ID": "DAY_CRYSTAL",
+      "name": "Day Crystal"
+    },
+    {
+      "ID": "WITHER_ARTIFACT",
+      "name": "Wither Artifact"
+    },
+    {
+      "ID": "SEAL_OF_THE_FAMILY",
+      "name": "Seal of the Family"
+    },
+    {
+      "ID": "SPEED_ARTIFACT",
+      "name": "Speed Artifact"
+    },
+    {
+      "ID": "WITHER_RELIC",
+      "name": "Wither Relic"
+    },
+    {
+      "ID": "AUTO_RECOMBOBULATOR",
+      "name": "Auto Recombobulator"
+    },
+    {
+      "ID": "COMPASS_TALISMAN",
+      "name": "Compass Talisman"
+    },
+    {
+      "ID": "FIERY_KUUDRA_CORE",
+      "name": "Fiery Kuudra Core"
+    },
+    {
+      "ID": "VILLAGE_TALISMAN",
+      "name": "Village Affinity Talisman"
+    },
+    {
+      "ID": "ARTIFACT_POTION_AFFINITY",
+      "name": "Potion Affinity Artifact"
+    },
+    {
+      "ID": "VACCINE_ARTIFACT",
+      "name": "Vaccine Artifact"
+    },
+    {
+      "ID": "PERSONAL_DELETOR_6000",
+      "name": "Personal Deletor 6000"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_7",
+      "name": "Master Skull - Tier 7"
+    },
+    {
+      "ID": "MINE_TALISMAN",
+      "name": "Mine Affinity Talisman"
+    },
+    {
+      "ID": "TREASURE_RING",
+      "name": "Treasure Ring"
+    },
+    {
+      "ID": "WOLF_TALISMAN",
+      "name": "Wolf Talisman"
+    },
+    {
+      "ID": "DANTE_TALISMAN",
+      "name": "Dante Talisman"
+    },
+    {
+      "ID": "BURNING_KUUDRA_CORE",
+      "name": "Burning Kuudra Core"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_8",
+      "name": "Master Skull - Tier 8"
+    },
+    {
+      "ID": "ARTIFACT_OF_SPACE",
+      "name": "Artifact of Space"
+    },
+    {
+      "ID": "DANTE_RING",
+      "name": "Dante Ring"
+    },
+    {
+      "ID": "EMERALD_RING",
+      "name": "Emerald Ring"
+    },
+    {
+      "ID": "NETHER_ARTIFACT",
+      "name": "Nether Artifact"
+    },
+    {
+      "ID": "PIGGY_BANK",
+      "name": "Piggy Bank"
+    },
+    {
+      "ID": "POTATO_TALISMAN",
+      "name": "Potato Talisman"
+    },
+    {
+      "ID": "PERSONAL_DELETOR_5000",
+      "name": "Personal Deletor 5000"
+    },
+    {
+      "ID": "KUUDRA_FOLLOWER_RELIC",
+      "name": "Kuudra Follower Relic"
+    },
+    {
+      "ID": "NIGHT_CRYSTAL",
+      "name": "Night Crystal"
+    },
+    {
+      "ID": "SHENS_REGALIA",
+      "name": "Shen's Regalia"
+    },
+    {
+      "ID": "ETERNAL_HOOF",
+      "name": "Eternal Hoof"
+    },
+    {
+      "ID": "SPEED_TALISMAN",
+      "name": "Speed Talisman"
+    },
+    {
+      "ID": "SCAVENGER_TALISMAN",
+      "name": "Scavenger Talisman"
+    },
+    {
+      "ID": "INTIMIDATION_RELIC",
+      "name": "Intimidation Relic"
+    },
+    {
+      "ID": "HEALING_TALISMAN",
+      "name": "Healing Talisman"
+    },
+    {
+      "ID": "BAT_TALISMAN",
+      "name": "Bat Talisman"
+    },
+    {
+      "ID": "MAGNETIC_TALISMAN",
+      "name": "Magnetic Talisman"
+    },
+    {
+      "ID": "GRIZZLY_PAW",
+      "name": "Grizzly Paw"
+    },
+    {
+      "ID": "ODGERS_SILVER_TOOTH",
+      "name": "Odger's Silver Tooth"
+    },
+    {
+      "ID": "POTION_AFFINITY_TALISMAN",
+      "name": "Potion Affinity Talisman"
+    },
+    {
+      "ID": "WOLF_RING",
+      "name": "Wolf Ring"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_2",
+      "name": "Master Skull - Tier 2"
+    },
+    {
+      "ID": "INTIMIDATION_TALISMAN",
+      "name": "Intimidation Talisman"
+    },
+    {
+      "ID": "PANDORAS_BOX",
+      "name": "Pandora's Box"
+    },
+    {
+      "ID": "SCARF_GRIMOIRE",
+      "name": "Scarf's Grimoire"
+    },
+    {
+      "ID": "LYNX_TALISMAN",
+      "name": "Lynx Talisman"
+    },
+    {
+      "ID": "BAT_PERSON_TALISMAN",
+      "name": "Bat Person Talisman"
+    },
+    {
+      "ID": "CANDY_ARTIFACT",
+      "name": "Candy Artifact"
+    },
+    {
+      "ID": "TREASURE_TALISMAN",
+      "name": "Treasure Talisman"
+    },
+    {
+      "ID": "ARTIFACT_OF_CONTROL",
+      "name": "Artifact of Control"
+    },
+    {
+      "ID": "BROKEN_PIGGY_BANK",
+      "name": "Broken Piggy Bank"
+    },
+    {
+      "ID": "CANDY_RING",
+      "name": "Candy Ring"
+    },
+    {
+      "ID": "CROOKED_ARTIFACT",
+      "name": "Crooked Artifact"
+    },
+    {
+      "ID": "KING_TALISMAN",
+      "name": "King Talisman"
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_7000",
+      "name": "Personal Compactor 7000"
+    },
+    {
+      "ID": "FEATHER_RING",
+      "name": "Feather Ring"
+    },
+    {
+      "ID": "PERSONAL_COMPACTOR_5000",
+      "name": "Personal Compactor 5000"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_3",
+      "name": "Master Skull - Tier 3"
+    },
+    {
+      "ID": "SPIDER_TALISMAN",
+      "name": "Spider Talisman"
+    },
+    {
+      "ID": "BAT_RING",
+      "name": "Bat Ring"
+    },
+    {
+      "ID": "VACCINE_TALISMAN",
+      "name": "Vaccine Talisman"
+    },
+    {
+      "ID": "ETERNAL_CRYSTAL",
+      "name": "Eternal Crystal"
+    },
+    {
+      "ID": "FARMING_TALISMAN",
+      "name": "Farming Talisman"
+    },
+    {
+      "ID": "SKELETON_TALISMAN",
+      "name": "Skeleton Talisman"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_6",
+      "name": "Master Skull - Tier 6"
+    },
+    {
+      "ID": "SEA_CREATURE_ARTIFACT",
+      "name": "Sea Creature Artifact"
+    },
+    {
+      "ID": "MASTER_SKULL_TIER_9",
+      "name": "Master Skull - Tier 9"
+    },
+    {
+      "ID": "RING_POTION_AFFINITY",
+      "name": "Potion Affinity Ring"
+    },
+    {
+      "ID": "INFERNAL_KUUDRA_CORE",
+      "name": "Infernal Kuudra Core"
+    },
+    {
+      "ID": "JUNGLE_AMULET",
+      "name": "Jungle Amulet"
+    },
+    {
+      "ID": "CAT_TALISMAN",
+      "name": "Cat Talisman"
+    },
+    {
+      "ID": "POWER_TALISMAN",
+      "name": "Talisman of Power"
+    },
+    {
+      "ID": "POWER_RING",
+      "name": "Ring of Power"
+    },
+    {
+      "ID": "ZOMBIE_TALISMAN",
+      "name": "Zombie Talisman"
+    },
+    {
+      "ID": "MELODY_HAIR",
+      "name": "\u00a7dMelody's Hair"
+    },
+    {
+      "ID": "OLD_BOOT",
+      "name": "Old Boot"
+    },
+    {
+      "ID": "EXPERIENCE_ARTIFACT",
+      "name": "Experience Artifact"
+    },
+    {
+      "ID": "CANDY_TALISMAN",
+      "name": "Candy Talisman"
+    },
+    {
+      "ID": "BLOOD_GOD_CREST",
+      "name": "Blood God Crest"
+    },
+    {
+      "ID": "TREASURE_ARTIFACT",
+      "name": "Treasure Artifact"
+    },
+    {
+      "ID": "BOOK_OF_PROGRESSION",
+      "name": "Book of Progression"
+    },
+    {
+      "ID": "BLAZE_TALISMAN",
+      "name": "Blaze Talisman"
+    },
+    {
+      "ID": "BURSTSTOPPER_ARTIFACT",
+      "name": "Burststopper Artifact"
+    },
+    {
+      "ID": "BURSTSTOPPER_TALISMAN",
+      "name": "Burststopper Talisman"
+    },
+    {
+      "ID": "SOULFLOW_SUPERCELL",
+      "name": "Soulflow Supercell"
+    },
+    {
+      "ID": "ENDER_RELIC",
+      "name": "Ender Relic"
+    },
+    {
+      "ID": "HANDY_BLOOD_CHALICE",
+      "name": "Handy Blood Chalice"
+    },
+    {
+      "ID": "POCKET_ESPRESSO_MACHINE",
+      "name": "Pocket Espresso Machine"
+    },
+    {
+      "ID": "SOULFLOW_PILE",
+      "name": "Soulflow Pile"
+    },
+    {
+      "ID": "SOULFLOW_BATTERY",
+      "name": "Soulflow Battery"
+    },
+    {
+      "ID": "TARANTULA_TALISMAN",
+      "name": "Tarantula Talisman"
+    },
+    {
+      "ID": "SURVIVOR_CUBE",
+      "name": "Survivor Cube"
+    },
+    {
+      "ID": "SPIDER_ARTIFACT",
+      "name": "Spider Artifact"
+    },
+    {
+      "ID": "SPIDER_RING",
+      "name": "Spider Ring"
+    },
+    {
+      "ID": "REAPER_ORB",
+      "name": "Reaper Orb"
+    },
+    {
+      "ID": "ZOMBIE_RING",
+      "name": "Zombie Ring"
+    },
+    {
+      "ID": "ZOMBIE_ARTIFACT",
+      "name": "Zombie Artifact"
+    },
+    {
+      "ID": "DEVOUR_RING",
+      "name": "Devour Ring"
+    },
+    {
+      "ID": "HUNTER_TALISMAN",
+      "name": "Hunter Talisman"
+    },
+    {
+      "ID": "HUNTER_RING",
+      "name": "Hunter Ring"
+    },
+    {
+      "ID": "RED_CLAW_RING",
+      "name": "Red Claw Ring"
+    },
+    {
+      "ID": "RED_CLAW_ARTIFACT",
+      "name": "Red Claw Artifact"
+    },
+    {
+      "ID": "RED_CLAW_TALISMAN",
+      "name": "Red Claw Talisman"
+    },
+    {
+      "ID": "SQUASH_RING",
+      "name": "Squash Ring"
+    },
+    {
+      "ID": "CROPIE_TALISMAN",
+      "name": "Cropie Talisman"
+    },
+    {
+      "ID": "ATMOSPHERIC_FILTER",
+      "name": "Atmospheric Filter"
+    },
+    {
+      "ID": "JAKE_PLUSHIE",
+      "name": "Jake's Plushie"
+    },
+    {
+      "ID": "FERMENTO_ARTIFACT",
+      "name": "Fermento Artifact"
+    },
+    {
+      "ID": "BLUE_GIFT_TALISMAN",
+      "name": "Blue Gift Talisman"
+    },
+    {
+      "ID": "PURPLE_GIFT_TALISMAN",
+      "name": "Purple Gift Talisman"
+    },
+    {
+      "ID": "GOLD_GIFT_TALISMAN",
+      "name": "Gold Gift Talisman"
+    },
+    {
+      "ID": "WHITE_GIFT_TALISMAN",
+      "name": "White Gift Talisman"
+    },
+    {
+      "ID": "GREEN_GIFT_TALISMAN",
+      "name": "Green Gift Talisman"
+    },
+    {
+      "ID": "GLACIAL_RING",
+      "name": "Glacial Ring"
+    },
+    {
+      "ID": "GLACIAL_ARTIFACT",
+      "name": "Glacial Artifact"
+    },
+    {
+      "ID": "GLACIAL_TALISMAN",
+      "name": "Glacial Talisman"
+    },
+    {
+      "ID": "FUTURE_CALORIES",
+      "name": "Future Calories Talisman"
+    },
+    {
+      "ID": "RIFT_PRISM",
+      "name": "Rift Prism"
+    },
+    {
+      "ID": "PUNCHCARD_ARTIFACT",
+      "name": "Punchcard Artifact"
+    },
+    {
+      "ID": "WARDING_TRINKET",
+      "name": "Warding Trinket"
+    },
+    {
+      "ID": "HARMONIOUS_SURGERY_TOOLKIT",
+      "name": "Harmonious Surgery Toolkit"
+    },
+    {
+      "ID": "CRUX_TALISMAN_4",
+      "name": "Crux Relic"
+    },
+    {
+      "ID": "CRUX_TALISMAN_3",
+      "name": "Crux Artifact"
+    },
+    {
+      "ID": "CRUX_TALISMAN_2",
+      "name": "Crux Ring"
+    },
+    {
+      "ID": "CRUX_TALISMAN_5",
+      "name": "Crux Heirloom"
+    },
+    {
+      "ID": "CRUX_TALISMAN_1",
+      "name": "Crux Talisman"
+    },
+    {
+      "ID": "CRUX_TALISMAN_6",
+      "name": "Crux Chronomicon"
+    },
+    {
+      "ID": "RING_OF_BROKEN_LOVE",
+      "name": "Ring of Broken Love"
+    },
+    {
+      "ID": "ARGOFAY_TRINKET",
+      "name": "Argofay Trinket"
+    },
+    {
+      "ID": "DEFECTIVE_MONITOR",
+      "name": "Defective Monitor"
+    },
+    {
+      "ID": "BLUETOOTH_RING",
+      "name": "Bluetooth Ring"
+    },
+    {
+      "ID": "LUSH_RING",
+      "name": "Lush Ring"
+    },
+    {
+      "ID": "LUSH_ARTIFACT",
+      "name": "Lush Artifact"
+    },
+    {
+      "ID": "LUSH_TALISMAN",
+      "name": "Lush Talisman"
+    },
+    {
+      "ID": "AGARIMOO_TALISMAN",
+      "name": "Agarimoo Talisman"
+    },
+    {
+      "ID": "AGARIMOO_RING",
+      "name": "Agarimoo Ring"
+    },
+    {
+      "ID": "AGARIMOO_ARTIFACT",
+      "name": "Agarimoo Artifact"
+    },
+    {
+      "ID": "HOCUS_POCUS_CIPHER",
+      "name": "Hocus-Pocus Cipher"
+    },
+    {
+      "ID": "TINY_DANCER",
+      "name": "Tiny Dancer"
+    },
+    {
+      "ID": "TEST_BUCKET_PLEASE_IGNORE",
+      "name": "Test Bucket Please Ignore"
+    },
+    {
+      "ID": "BIG_BRAIN_TALISMAN",
+      "name": "Big Brain Talisman"
+    },
+    {
+      "ID": "MINIATURIZED_TUBULATOR",
+      "name": "Miniaturized Tubulator"
+    },
+    {
+      "ID": "GARLIC_FLAVORED_GUMMY_BEAR",
+      "name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear"
+    },
+    {
+      "ID": "BLOOD_DONOR_RING",
+      "name": "Blood Donor Ring"
+    },
+    {
+      "ID": "BLOOD_DONOR_ARTIFACT",
+      "name": "Blood Donor Artifact"
+    },
+    {
+      "ID": "BLOOD_DONOR_TALISMAN",
+      "name": "Blood Donor Talisman"
+    },
+    {
+      "ID": "VAMPIRE_DENTIST_RELIC",
+      "name": "Vampire Dentist Relic"
+    },
+    {
+      "ID": "DRACONIC_ARTIFACT",
+      "name": "Draconic Artifact"
+    },
+    {
+      "ID": "DRACONIC_RING",
+      "name": "Draconic Ring"
+    },
+    {
+      "ID": "ENDER_ARTIFACT",
+      "name": "Ender Artifact"
+    },
+    {
+      "ID": "DRACONIC_TALISMAN",
+      "name": "Draconic Talisman"
+    },
+    {
+      "ID": "CHUMMING_TALISMAN",
+      "name": "Chumming Talisman"
+    },
+    {
+      "ID": "TRAPPER_CREST",
+      "name": "Trapper Crest"
+    },
+    {
+      "ID": "GENERAL_MEDALLION",
+      "name": "General's Medallion"
+    },
+    {
+      "ID": "PULSE_RING",
+      "name": "Pulse Ring"
+    },
+    {
+      "ID": "NETHERRACK_LOOKING_SUNSHADE",
+      "name": "Netherrack-Looking Sunshade"
+    },
+    {
+      "ID": "KUUDRA_FOLLOWER_ARTIFACT",
+      "name": "Kuudra Follower Artifact"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_8",
+      "name": "Campfire Cultist Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_11",
+      "name": "Campfire Cultist Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_9",
+      "name": "Campfire Cultist Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_23",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_26",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_5",
+      "name": "Campfire Adept Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_21",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_6",
+      "name": "Campfire Adept Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_10",
+      "name": "Campfire Cultist Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_13",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_1",
+      "name": "Campfire Initiate Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_29",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_28",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_25",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_14",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_19",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_15",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_2",
+      "name": "Campfire Initiate Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_18",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_24",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_27",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_4",
+      "name": "Campfire Adept Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_7",
+      "name": "Campfire Adept Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_16",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_3",
+      "name": "Campfire Initiate Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_20",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_17",
+      "name": "Campfire Scion Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_22",
+      "name": "Campfire God Badge"
+    },
+    {
+      "ID": "CAMPFIRE_TALISMAN_12",
+      "name": "Campfire Cultist Badge"
+    },
+    {
+      "ID": "WEDDING_RING_3",
+      "name": "Rubbish Ring of Love"
+    },
+    {
+      "ID": "WEDDING_RING_1",
+      "name": "\u00a7eYellow Rock of Love"
+    },
+    {
+      "ID": "WEDDING_RING_6",
+      "name": "Classy Ring of Love"
+    },
+    {
+      "ID": "WEDDING_RING_7",
+      "name": "Exquisite Ring of Love"
+    },
+    {
+      "ID": "WEDDING_RING_4",
+      "name": "Modest Ring of Love"
+    },
+    {
+      "ID": "WEDDING_RING_2",
+      "name": "Mediocre Ring of Love"
+    },
+    {
+      "ID": "WEDDING_RING_0",
+      "name": "\u00a7eShiny Yellow Rock"
+    },
+    {
+      "ID": "WEDDING_RING_8",
+      "name": "Invaluable Ring of Love"
+    },
+    {
+      "ID": "WEDDING_RING_5",
+      "name": "Refined Ring of Love"
+    },
+    {
+      "ID": "WEDDING_RING_9",
+      "name": "Legendary Ring of Love"
+    }
+  ]
+}
